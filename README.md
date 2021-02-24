@@ -1,8 +1,17 @@
 # Primeiro aula - trilha elixir
 
- Criando a primeira rota da APP 
- Entendendo os conceitos presentes no Elixir como Pattern Matching e Pipe Operator
+ * Criando a primeira rota da APP 
+ * Entendendo os conceitos presentes no Elixir como Pattern Matching e Pipe Operator
 
+- data 22/02/2021
+
+---------------------------
+
+# Primeiro aula - trilha elixir (incrivel dupla Phenix e Ecto)
+
+
+
+---------------------------
 # Rocketpay
 
 To start your Phoenix server:
